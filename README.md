@@ -2,10 +2,10 @@ Lab 01 - LED Animations for Microcontroller Course (CC04).
 # Microcontroller (CC04) - Lab 01: LED Animations
 
 ## 📌 Student Information
-* **Full Name:** [Tên sinh viên của bạn]
-* **Student ID (MSSV):** [Mã số sinh viên]
+* **Full Name:** Nguyễn Thành Trường An
+* **Student ID (MSSV):** 2452020
 * **Class:** CC04
-* **Instructor:** Dr. Le Trong Nhan
+* **Instructor:** Phan Văn Sỹ
 
 ---
 
